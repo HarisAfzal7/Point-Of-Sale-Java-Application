@@ -1,0 +1,2 @@
+{"description":"item","price":25.0,"quantity":3,"creationDate":"28/01/2024","id":1}
+{"description":"item2","price":23.0,"quantity":2,"creationDate":"28/01/2024","id":2}

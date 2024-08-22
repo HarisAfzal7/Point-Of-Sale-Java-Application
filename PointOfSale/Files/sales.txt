@@ -1,0 +1,1 @@
+{"customerId":2,"saleItems":[{"itemId":1,"quantity":2}],"status":"Pending","id":1,"quantitySold":2,"date":[2024,1,29]}

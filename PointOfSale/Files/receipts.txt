@@ -1,0 +1,2 @@
+{"receiptNo":1,"receiptDate":"29/01/2024","amount":25.0,"id":1}
+{"amount":25.0,"receiptNo":1,"receiptDate":"29/01/2024","id":1}
